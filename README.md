@@ -20,7 +20,7 @@
 📺Colecionador de Videogames<br/>
 
 ## Linguagens
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasdacosta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasdacosta&layout=compact)](https://github.com/thomasdacosta/github-readme-stats)
 
 ## Repo Stats
 ![thomasdacosta Status](https://github-readme-stats.vercel.app/api?username=thomasdacosta&show_icons=true)
