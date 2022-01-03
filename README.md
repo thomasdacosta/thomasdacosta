@@ -1,4 +1,4 @@
-# Thomás da Costa
+# Thomás da Costa ![GitHub followers](https://img.shields.io/github/followers/thomasdacosta?style=social)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thomasdacosta)](https://github.com/thomasdacosta)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomasdacosta/)](https://www.linkedin.com/in/thomasdacosta/)
