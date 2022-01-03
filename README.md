@@ -5,6 +5,10 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thomasdacosta)](https://twitter.com/thomasdacosta)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fthomasdacosta.com.br%2F)
 
+## Sites
+[https://thomasdacosta.com.br/](https://thomasdacosta.com.br/)<br/>
+[https://medium.com/@thomsdacosta](https://medium.com/@thomsdacosta)
+
 ## About me
 
 🔸️+ 20 anos gerando código fonte em Java<br/>
