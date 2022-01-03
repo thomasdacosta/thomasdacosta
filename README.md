@@ -23,4 +23,4 @@
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasdacosta&layout=compact)](https://github.com/thomasdacosta?tab=repositories)
 
 ## Repo Stats
-![thomasdacosta Status](https://github-readme-stats.vercel.app/api?username=thomasdacosta&show_icons=true)
+[![thomasdacosta Status](https://github-readme-stats.vercel.app/api?username=thomasdacosta&show_icons=true)](https://github.com/thomasdacosta?tab=repositories)
