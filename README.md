@@ -6,8 +6,8 @@
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fthomasdacosta.com.br%2F)
 
 ## Sites
-[https://thomasdacosta.com.br/](https://thomasdacosta.com.br/)<br/>
-[https://medium.com/@thomsdacosta](https://medium.com/@thomsdacosta)
+🔸️[https://thomasdacosta.com.br/](https://thomasdacosta.com.br/)<br/>
+🔸️[https://medium.com/@thomsdacosta](https://medium.com/@thomsdacosta)
 
 ## About me
 
