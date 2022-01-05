@@ -9,7 +9,6 @@
 
 ## Sites
 🔸️[https://thomasdacosta.com.br/](https://thomasdacosta.com.br/)<br/>
-🔸️[https://medium.com/@thomsdacosta](https://medium.com/@thomsdacosta)
 
 ## About me
 
