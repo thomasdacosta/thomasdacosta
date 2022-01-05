@@ -3,6 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomasdacosta/)](https://www.linkedin.com/in/thomasdacosta/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thomasdacosta)](https://twitter.com/thomasdacosta)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thomasdacosta)](https://github.com/thomasdacosta)
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@thomsdacosta)](https://medium.com/@thomsdacosta)
+[![SlideShare Badge](https://img.shields.io/badge/-SlideShare-orange?style=flat-square&logo=Slideshare&logoColor=white&link=https://pt.slideshare.net/thomasdacosta)](https://pt.slideshare.net/thomasdacosta)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fthomasdacosta.com.br%2F)
 
 ## Sites
