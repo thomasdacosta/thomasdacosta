@@ -7,7 +7,7 @@
 [![SlideShare Badge](https://img.shields.io/badge/-SlideShare-orange?style=flat-square&logo=Slideshare&logoColor=white&link=https://pt.slideshare.net/thomasdacosta)](https://pt.slideshare.net/thomasdacosta)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fthomasdacosta.com.br%2F)
 
-## Sites
+## Site
 🔸️[https://thomasdacosta.com.br/](https://thomasdacosta.com.br/)<br/>
 
 ## About me
