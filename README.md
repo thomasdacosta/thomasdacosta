@@ -5,6 +5,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thomasdacosta)](https://github.com/thomasdacosta)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@thomsdacosta)](https://medium.com/@thomsdacosta)
 [![SlideShare Badge](https://img.shields.io/badge/-SlideShare-orange?style=flat-square&logo=Slideshare&logoColor=white&link=https://pt.slideshare.net/thomasdacosta)](https://pt.slideshare.net/thomasdacosta)
+[![Speker Dec Badge](https://img.shields.io/badge/-speakerdeck-green?style=flat-square&logo=speakerdeck&logoColor=white&link=[https://pt.slideshare.net/thomasdacosta](https://speakerdeck.com/thomasdacosta))]([https://pt.slideshare.net/thomasdacosta](https://speakerdeck.com/thomasdacosta))
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=Slideshare&logoColor=white&link=https://www.youtube.com/channel/UCvaVtRXmM6dQGcMOM5nUcRw)](https://www.youtube.com/channel/UCvaVtRXmM6dQGcMOM5nUcRw)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fthomasdacosta.com.br%2F)](https://thomasdacosta.com.br/)
 
