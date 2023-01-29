@@ -1,5 +1,7 @@
 # Thomás da Costa ![GitHub followers](https://img.shields.io/github/followers/thomasdacosta?style=social)
 
+## [![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=Slideshare&logoColor=white&link=https://www.youtube.com/channel/UCvaVtRXmM6dQGcMOM5nUcRw)](https://www.youtube.com/channel/UCvaVtRXmM6dQGcMOM5nUcRw) [Meu Canal no YouTube](https://www.youtube.com/thomasdacosta)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomasdacosta/)](https://www.linkedin.com/in/thomasdacosta/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thomasdacosta)](https://twitter.com/thomasdacosta)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thomasdacosta)](https://github.com/thomasdacosta)
