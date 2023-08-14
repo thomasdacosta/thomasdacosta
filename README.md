@@ -16,7 +16,7 @@
 
 ## About me
 
-🚀 ***Tecnólogo e Educador | Arquitetura de Software | Cloud Computing | Big Data*** 🚀
+🚀 ***Tecnólogo e Educador | Arquitetura de Software e Solução | Cloud Computing | Big Data*** 🚀
 
 Com mais de 27 anos de imersão no mundo da tecnologia, dos quais 22 anos dedicados ao universo Java, trago uma trajetória que atravessa diferentes domínios, desde a docência no Ensino Superior até a vanguarda da Arquitetura de Software, Cloud Computing e Big Data.
 
