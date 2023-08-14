@@ -20,15 +20,15 @@
 
 Com mais de 27 anos de imersão no mundo da tecnologia, dos quais 22 anos dedicados ao universo Java, trago uma trajetória que atravessa diferentes domínios, desde a docência no Ensino Superior até a vanguarda da Arquitetura de Software, Cloud Computing e Big Data.
 
-💼 Experiência Profissional e Técnica:
+💼 **Experiência Profissional e Técnica:** <br/>
 Minha jornada abrange desde a arquitetura de aplicações na AWS, com destaque para serviços como ECS, EKS, RDS, Lambda, S3, SNS e SQS, até o desenvolvimento enérgico de aplicações em Java, Kotlin, Spring Boot e gRPC. As possibilidades das AWS Lambda e sua integração com Java também estão entre minhas expertises.
 
 Além disso, meu alcance se estende ao ecossistema Microsoft Azure, onde tenho experiência em construir aplicações eficazes utilizando Azure Functions e Azure Cosmos DB, combinando o poder dessa plataforma com minha proficiência em Spring Boot e Java. No universo em rápida evolução de Big Data e Fast Data, domino tecnologias como Apache Kafka, Apache Avro, Apache Storm, Neo4J, Redis, ElasticSearch, Kibana, Logstash, Spring Boot e Spring Kafka.
 
-🤝 Relações Interpessoais e Liderança:
+🤝 **Relações Interpessoais e Liderança:** <br/>
 Minha abordagem vai além do técnico, abraçando a habilidade de estabelecer relações significativas com equipes, clientes e parceiros, alinhando demandas e expectativas para resultados sólidos. Minha ênfase na organização, disciplina e no cumprimento de metas de prazos, escopos e custos se traduz em resultados consistentes.
 
-🎓 Educação e Desenvolvimento:
+🎓 **Educação e Desenvolvimento:** <br/>
 Ao longo de 7 anos de docência no Ensino Superior, tive a honra de passar por instituições renomadas, como Fatec Ferraz de Vasconcelos, Senac e Anhanguera Educacional. Ministrei disciplinas vitais, desde Programação para Dispositivos Móveis II até fundamentos como Algoritmos e Programação, Conceitos de Computação e Sistemas Móveis Distribuídos.
 
 Meu compromisso não só com a excelência técnica, mas também com o crescimento educacional, foi fortalecido por um papel de liderança técnica, orientando equipes e projetos para alcançar resultados notáveis.
