@@ -18,7 +18,7 @@
 
 🚀 ***Tecnólogo e Educador | Arquitetura de Software e Solução | Cloud Computing | Big Data*** 🚀
 
-Com mais de 27 anos de imersão no mundo da tecnologia, dos quais 22 anos dedicados ao universo Java, trago uma trajetória que atravessa diferentes domínios, desde a docência no Ensino Superior até a vanguarda da Arquitetura de Software, Cloud Computing e Big Data.
+Com mais de 27 anos de imersão no mundo da tecnologia, dos quais 22 anos dedicados ao universo Java, trago uma trajetória que atravessa diferentes domínios, desde a docência no Ensino Superior até a vanguarda da Arquitetura de Software e Solução, Cloud Computing e Big Data.
 
 💼 **Experiência Profissional e Técnica:** <br/>
 Minha jornada abrange desde a arquitetura de aplicações na AWS, com destaque para serviços como ECS, EKS, RDS, Lambda, S3, SNS e SQS, até o desenvolvimento enérgico de aplicações em Java, Kotlin, Spring Boot e gRPC. As possibilidades das AWS Lambda e sua integração com Java também estão entre minhas expertises.
