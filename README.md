@@ -14,6 +14,16 @@
 ## Site
 🔸️[https://thomasdacosta.com.br/](https://thomasdacosta.com.br/)<br/>
 
+## Tecnologias
+
+[![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)](https://github.com/thomasdacosta)
+[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green?style=flat-square&logo=spring-boot&logoColor=white)](https://github.com/thomasdacosta)
+[![Quarkus](https://img.shields.io/badge/-Quarkus-yellow?style=flat-square&logo=quarkus&logoColor=white)](https://github.com/thomasdacosta)
+[![React Native](https://img.shields.io/badge/-React%20Native-blue?style=flat-square&logo=react&logoColor=white)](https://github.com/thomasdacosta)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://github.com/thomasdacosta)
+[![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/thomasdacosta)
+[![Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure&logoColor=white)](https://github.com/thomasdacosta)
+
 ## About me
 
 🚀 ***Tecnólogo e Educador | Arquitetura de Software e Solução | Desenvolvedor/Programador | Cloud Computing | Big Data*** 🚀
