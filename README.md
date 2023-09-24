@@ -47,10 +47,6 @@ Seja explorando a fronteira da inovação tecnológica ou capacitando as mentes 
 
 Vamos conectar e impulsionar juntos!
   
-## Último Artigo
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomsdacosta/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomsdacosta/0" alt="Recent Article 0"> 
-
 ## Linguagens
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasdacosta&layout=compact)](https://github.com/thomasdacosta?tab=repositories)
 
