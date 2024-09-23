@@ -23,6 +23,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://github.com/thomasdacosta)
 [![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/thomasdacosta)
 [![Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure&logoColor=white)](https://github.com/thomasdacosta)
+[![Python](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=python&logoColor=white)](https://github.com/thomasdacosta)
 
 ## About me
 
